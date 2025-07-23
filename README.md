@@ -198,3 +198,17 @@ fastapi_git_project/
 ├── main.py                  # FastAPI application
 └── README.md                # Documentation
 ```
+## Cloning This Repository
+
+To get started, clone this repository to your local machine using:
+
+```sh
+git clone https://github.com/bilal21312/fastapi.git
+cd fastapi
+```
+
+Or, using **GitHub Desktop**:
+1. Open GitHub Desktop.
+2. Go to **File > Clone repository...**
+3. Find `bilal21312/fastapi` in the list or paste the repo URL.
+4. Choose a local path and click **Clone**.
